@@ -5,7 +5,7 @@
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My passion for coding lies in my natural ability to build, fix, and problem solve.
 
    <p align="left">
-      <a href="[https://github.com/ForrestKnight?tab=followers](https://github.com/spencer-lott?tab=followers)">
+      <a href="(https://github.com/spencer-lott?tab=followers)">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spencer-lott?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
@@ -29,7 +29,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 #
 
-<details>
+
  <summary><h3>🤖 Spencer's Coding Journey</h3></summary>
    I started my coding journey as I was looking to make a career change when I was plumber. I quickly learned how well my skills in troubleshooting, problem-solving, fixing, and building things would transition to programming. In my mind, code was the "plumbing" behind the screen of a device. I left my full time career and went all in, joining NewForce (a 6 month full-time, full-stack remote bootcamp). It was then that I realized that some of my favorite things about coding is being able to squash bugs and celebrate little victories throughout projects on a team as well as individually. The coding community has accepted me with open arms, being able to have people to count on for help, advice, or having fun in random slack/discord channels full of nonsense. We are able to reach each other any time of day from pretty much anywhere in the world, which I value extremely. As far as goals, my vision is to become a senior engineer and train/mentor others. The ultimate impact I would like to leave is to give back to the community and help poeple have the same opportunity I've had. 
   
