@@ -5,7 +5,7 @@
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My passion for coding lies in my natural ability to build, fix, and problem solve.
 
    <p align="left">
-      <a href="(https://github.com/spencer-lott?tab=followers)">
+      <a href="https://github.com/spencer-lott?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spencer-lott?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
